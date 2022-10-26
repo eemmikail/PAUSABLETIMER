@@ -1,2 +1,2 @@
-# QT_SCHEDULER_TIMER
-Simple program for time scheduling.
+# SIMPLE PAUSABLE QT TIMER
+Simple program for qt timer.
